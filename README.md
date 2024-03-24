@@ -1,6 +1,7 @@
 # Privesc_alpine
-This alpine for linux privesc. I works when the user is part of lxd group.
+This alpine for linux privesc. Its works when the user is part of lxd group.
 
+# Usage:
 ```
 unzip alpine.zip
 lxc image import alpine.tar.gz alpine.tar.gz.root --alias alpine
