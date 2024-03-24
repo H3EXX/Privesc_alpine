@@ -12,3 +12,6 @@ lxc exec r00t /bin/sh
 ```
 ![image](https://github.com/H3EXX/Privesc_alpine/assets/111686217/6d54849c-d9da-4897-a768-41e2507f73eb)
 
+![image](https://github.com/H3EXX/Privesc_alpine/assets/111686217/17de3d80-c70d-43b5-be91-8217260d61d7)
+
+
